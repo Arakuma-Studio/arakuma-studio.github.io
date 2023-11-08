@@ -1,4 +1,4 @@
 Benja Calero: DOU
 GastoInicial,0
-PorcentajeInfluencer,1
+PorcentajeInfluencer,0.5
 PrimeroCostos,false
