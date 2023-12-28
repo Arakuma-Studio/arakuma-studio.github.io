@@ -78,9 +78,11 @@ anuncios,19,diciembre,2023,291.92
 anuncios,20,diciembre,2023,318.46
 anuncios,21,diciembre,2023,239.88
 anuncios,22,diciembre,2023,322.11
-anuncios,23,diciembre,2023,407.49
-anuncios,24,diciembre,2023,348.74
-anuncios,25,diciembre,2023,240.61
+anuncios,23,diciembre,2023,407.41
+anuncios,24,diciembre,2023,348.64
+anuncios,25,diciembre,2023,240.57
+anuncios,26,diciembre,2023,218.62
+anuncios,27,diciembre,2023,234.9
 compras,6,octubre,2023,38.21
 compras,7,octubre,2023,246.72
 compras,8,octubre,2023,160.07
@@ -161,7 +163,9 @@ compras,21,diciembre,2023,50.3
 compras,22,diciembre,2023,110.3
 compras,23,diciembre,2023,63.37
 compras,24,diciembre,2023,47.94
-compras,25,diciembre,2023,62.72
+compras,25,diciembre,2023,137.72
+compras,26,diciembre,2023,88.33
+compras,27,diciembre,2023,26.81
 android,5,octubre,2023,499
 android,6,octubre,2023,112768
 android,7,octubre,2023,171093
@@ -241,9 +245,11 @@ android,19,diciembre,2023,9276
 android,20,diciembre,2023,9867
 android,21,diciembre,2023,8098
 android,22,diciembre,2023,12771
-android,23,diciembre,2023,10451
-android,24,diciembre,2023,9617
+android,23,diciembre,2023,11850
+android,24,diciembre,2023,11158
 android,25,diciembre,2023,8444
+android,26,diciembre,2023,8383
+android,27,diciembre,2023,8418
 apple,8,diciembre,2023,38
 apple,9,diciembre,2023,115
 apple,10,diciembre,2023,91
@@ -261,3 +267,5 @@ apple,21,diciembre,2023,1733
 apple,22,diciembre,2023,2006
 apple,23,diciembre,2023,1762
 apple,24,diciembre,2023,1773
+apple,25,diciembre,2023,1200
+apple,26,diciembre,2023,1082
