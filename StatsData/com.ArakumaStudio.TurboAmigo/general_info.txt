@@ -1,4 +1,4 @@
 Turbo Amigo
 GastoInicial,0
-PorcentajeInfluencer,0.5
+PorcentajeInfluencer,1
 PrimeroCostos,false
