@@ -1,2 +1,2 @@
-totalLevels = 27
-version = 1
+totalLevels = 42
+version = 2
