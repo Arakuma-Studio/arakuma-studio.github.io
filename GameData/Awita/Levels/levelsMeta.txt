@@ -1,2 +1,2 @@
 totalLevels = 50
-version = 6
+version = 7
