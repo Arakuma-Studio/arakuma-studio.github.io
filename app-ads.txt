@@ -1,5 +1,5 @@
 #Google#
- 
+
 google.com, pub-1912561085588771, DIRECT, f08c47fec0942fa0
 google.com, pub-4537341636281998, DIRECT, f08c47fec0942fa0
 google.com, pub-1912561085588771, RESELLER, f08c47fec0942fa0
@@ -199,7 +199,7 @@ pubmatic.com, 164282, RESELLER, 5d62403b186f2ace
 roockmobile.com, 2294, RESELLER
 rixengine.com, 36069, RESELLER
 se7en.es, 212459, RESELLER, 064bc410192443d8
-singularads, 984415, RESELLER
+singularads.com, 984415, RESELLER
 smartadserver.com, 3117, RESELLER
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
 appads.in, 107606, RESELLER
