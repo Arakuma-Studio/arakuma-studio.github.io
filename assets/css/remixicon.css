@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'remixicon';
+	src: url(../../assets/fonts/remixicon-c38ca30e77ed3d593e1368b6645fecb5.eot?t=1708865856766) format('embedded-opentype'),
+	url(../../assets/fonts/remixicon-c38ca30e77ed3d593e1368b6645fecb5.eot?t=1708865856766) format('embedded-opentype'),
+	url(../../assets/fonts/remixicon-d4460b9000f13a530bb91c1a916d99c3.woff2?t=1708865856766) format('woff2'),
+	url(../../assets/fonts/remixicon-70b394e0620411ff27c7d6a64b934563.woff?t=1708865856766) format('woff'),
+	url(../../assets/fonts/remixicon-a9dc5f8f93d256a0679f929f0feca4c1.ttf?t=1708865856766) format('truetype'),
+	url(../../assets/fonts/remixicon-77f3dd336f621d1975ceee80580f2560.svg?t=1708865856766) format('svg');
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
