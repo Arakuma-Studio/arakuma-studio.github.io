@@ -33,5 +33,6 @@ DouEvoFakeAdFrequency,1
 DouEvoCurrentVer,1
 DouEvoTestAds-Android,0
 DouEvoTestAds-iOS,0
+DouEvoDisableAdsForReview-iOS,0
 DouEvoShowDebugConsole-Android,0
 DouEvoShowDebugConsole-iOS,0
