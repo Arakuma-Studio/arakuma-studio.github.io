@@ -32,7 +32,7 @@ DouEvoInterstitialInterval,1
 DouEvoFakeAdFrequency,1
 DouEvoCurrentVer,5
 DouEvoTestAds-Android,0
-DouEvoTestAds-iOS,0
-DouEvoDisableAdsForReview-iOS,0
+DouEvoTestAds-iOS,1
+DouEvoDisableAdsForReview-iOS,1
 DouEvoShowDebugConsole-Android,0
 DouEvoShowDebugConsole-iOS,0
