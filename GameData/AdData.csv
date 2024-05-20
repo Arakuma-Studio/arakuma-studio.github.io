@@ -36,3 +36,12 @@ DouEvoTestAds-iOS,1
 DouEvoDisableAdsForReview-iOS,1
 DouEvoShowDebugConsole-Android,0
 DouEvoShowDebugConsole-iOS,0
+
+NetherHeroesInterstitialInterval,1
+NetherHeroesFakeAdFrequency,1
+NetherHeroesCurrentVer,0
+NetherHeroesTestAds-Android,0
+NetherHeroesTestAds-iOS,0
+NetherHeroesDisableAdsForReview-iOS,0
+NetherHeroesShowDebugConsole-Android,0
+NetherHeroesShowDebugConsole-iOS,0
