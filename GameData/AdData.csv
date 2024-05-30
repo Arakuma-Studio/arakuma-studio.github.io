@@ -42,6 +42,6 @@ NetherHeroesFakeAdFrequency,1
 NetherHeroesCurrentVer,0
 NetherHeroesTestAds-Android,1
 NetherHeroesTestAds-iOS,1
-NetherHeroesDisableAdsForReview-iOS,0
+NetherHeroesDisableAdsForReview-iOS,1
 NetherHeroesShowDebugConsole-Android,0
 NetherHeroesShowDebugConsole-iOS,0
