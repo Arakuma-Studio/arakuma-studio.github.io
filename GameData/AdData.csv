@@ -40,7 +40,7 @@ DouEvoShowDebugConsole-iOS,0
 NetherHeroesInterstitialInterval,1
 NetherHeroesFakeAdFrequency,1
 NetherHeroesCurrentVer,0
-NetherHeroesTestAds-Android,1
+NetherHeroesTestAds-Android,0
 NetherHeroesTestAds-iOS,1
 NetherHeroesDisableAdsForReview-iOS,1
 NetherHeroesShowDebugConsole-Android,0
